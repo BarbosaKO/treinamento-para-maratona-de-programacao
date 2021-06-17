@@ -1,0 +1,6 @@
+0|	10	|	|(posicaoRelevante - posicao)*2 =2|	|	tempoDeCafe = 10*4 =40
+1|	20	|	|(posicaoRelevante - posicao)*2 =0|	|	tempoDeCafe = 20*0 =40
+2|	30	|	|(posicaoRelevante - posicao)*2 =0|	|	tempoDeCafe = 30*0 =0
+
+PosicaoRelevante = 1
+SomatorioTempoDeCafe = 80
